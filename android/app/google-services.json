@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529301583201",
+    "project_id": "cloudamountapp",
+    "storage_bucket": "cloudamountapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529301583201:android:1ef0bbe5666d55dd4e4120",
+        "android_client_info": {
+          "package_name": "dev.gabrielminaya.cloudamountapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529301583201-a7gut2428t67n1o2tppc1i84j54naqiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2CNgK2WNX-BA36G4eUwQUuenN5X9vmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529301583201-a7gut2428t67n1o2tppc1i84j54naqiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
